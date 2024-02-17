@@ -14,9 +14,9 @@
 
 🎨 Speaking of creativity, I'm also a graphic design and multimedia fan, wielding Adobe Photoshop, Audition, and After Effects like a digital Picasso. 🎬
 
-🌐 As a proud member of the (Microsoft Patterns and Practices Team[http://aka.ms/community/home], I'm all about community engagement. Hosting Microsoft Community Calls, kicking off "Sharing is Caring" initiatives, and championing the "Microsoft Recognition Program" are just a few ways I spread the tech love. 🧡💜
+🌐 As a proud member of the [Microsoft Patterns and Practices Team](http://aka.ms/community/home), I'm all about community engagement. Hosting [Microsoft Community Calls](https://aka.ms/community/calls), kicking off "[Sharing is Caring](https://aka.ms/sharing-is-caring)" initiatives with [Hugo Bernier](https://www.github.com/hugoabernier), and championing the "[Microsoft Recognition Program](https://aka.ms/community/recognition)" are just a few ways I spread the tech love. 🧡💜
 
-🏈 Oh, did I mention I'm a die-hard Vikings fan? SKOL! 🏒 And when I'm not cheering on my team, you'll catch me enjoying the thrill of hockey or lending my voice over talents to projects for Microsoft, Audible, and more. 🎙️
+🏈 Oh, did I mention I'm a die-hard Vikings fan? SKOL! 🏒 And when I'm not cheering on my team, you'll catch me enjoying the thrill of hockey or lending my voice-over talents to projects for Microsoft, [Audible](https://www.audible.com/search?searchNarrator=David+Warner+II&ref_pageloadid=not_applicable&ref=a_pd_Your-F_c1_narrator_1&pf_rd_p=df6bf89c-ab0c-4323-993a-2a046c7399f9&pf_rd_r=PSN2SVBPVXN69246MHQR&pageLoadId=PgsjtDH4gLVyWNWY&creativeId=16015ba4-2e2d-4ae3-93c5-e937781a25cd), and more. 🎙️
 
 Let's connect and geek out together! 🤓 💜🧡
 
