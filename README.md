@@ -14,7 +14,7 @@
 
 🎨 Speaking of creativity, I'm also a graphic design and multimedia fan, wielding Adobe Photoshop, Audition, and After Effects like a digital Picasso. 🎬
 
-🌐 As a proud member of the Microsoft Patterns and Practices Team, I'm all about community engagement. Hosting Microsoft Community Calls, kicking off "Sharing is Caring" initiatives, and championing the "Microsoft Recognition Program" are just a few ways I spread the tech love. 🧡💜
+🌐 As a proud member of the (Microsoft Patterns and Practices Team[http://aka.ms/community/home], I'm all about community engagement. Hosting Microsoft Community Calls, kicking off "Sharing is Caring" initiatives, and championing the "Microsoft Recognition Program" are just a few ways I spread the tech love. 🧡💜
 
 🏈 Oh, did I mention I'm a die-hard Vikings fan? SKOL! 🏒 And when I'm not cheering on my team, you'll catch me enjoying the thrill of hockey or lending my voice over talents to projects for Microsoft, Audible, and more. 🎙️
 
