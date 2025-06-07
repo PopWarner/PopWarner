@@ -4,7 +4,7 @@
 
 👋 Hey there, I'm David Warner II, your friendly neighborhood tech enthusiast! 🚀
 
-🏢 Currently rocking the Microsoft Employee life and basking in the glory of being a former Microsoft MVP (Most Valuable Professional). 😎
+🏢 Currently rocking the Microsoft MVP life (Most Valuable Professional). 😎
 
 🏆 Proud winner of the 2019 Microsoft Dev Kitchen, where I cooked up some seriously awesome tech. 🍳
 
